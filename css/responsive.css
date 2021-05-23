@@ -1,0 +1,11 @@
+@media only screen and (max-width: 767px) {
+	.colorBg, container {margin-left: -215px;}
+
+section.bannarArea {background-position: center;}
+.service .card-body {
+    background-color: aliceblue;
+    margin-top: 20px;
+    padding: 25px;
+    width: 250px;
+}
+}
